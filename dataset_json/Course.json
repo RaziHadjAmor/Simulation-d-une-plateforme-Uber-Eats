@@ -1,0 +1,29 @@
+[
+    {
+        "id_course": "course1",
+        "point_retrait": "15 rue Pasteur",
+        "point_livraison": "10 rue du Soleil",
+        "retribution": "5.20",
+        "statut": "en cours",
+        "id_livreur": "liv1",
+        "id_commande": "cmd1"
+    },
+    {
+        "id_course": "course2",
+        "point_retrait": "22 avenue du Japon",
+        "point_livraison": "21 avenue des Fleurs",
+        "retribution": "6.00",
+        "statut": "préparée",
+        "id_livreur": "liv2",
+        "id_commande": "cmd2"
+    },
+    {
+        "id_course": "course3",
+        "point_retrait": "5 boulevard Central",
+        "point_livraison": "3 impasse Verte",
+        "retribution": "4.80",
+        "statut": "livrée",
+        "id_livreur": "liv3",
+        "id_commande": "cmd3"
+    }
+]

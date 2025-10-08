@@ -1,0 +1,17 @@
+[
+    {
+        "id_livreur": "liv1",
+        "nom": "David-Prime",
+        "statut_disponibilite": "disponible"
+    },
+    {
+        "id_livreur": "liv2",
+        "nom": "Eva-Speedy",
+        "statut_disponibilite": "occupé"
+    },
+    {
+        "id_livreur": "liv3",
+        "nom": "Oscar-Pro",
+        "statut_disponibilite": "disponible"
+    }
+]

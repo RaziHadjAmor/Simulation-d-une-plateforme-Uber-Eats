@@ -1,0 +1,4 @@
+id_client,nom,email,adresse
+cli1,Alice Dupont,alice@exemple.fr,10 rue du Soleil
+cli2,Bob Martin,bob@exemple.fr,21 avenue des Fleurs
+cli3,Camille Renard,camille@exemple.fr,3 impasse Verte

@@ -1,0 +1,37 @@
+[
+    {
+        "id_plat": "plat1",
+        "nom": "Pizza 4 fromages",
+        "description": "Mozzarella, chèvre, bleu, parmesan",
+        "prix": "12.99",
+        "id_restaurant": "rest1"
+    },
+    {
+        "id_plat": "plat2",
+        "nom": "Sushi saumon",
+        "description": "Saumon, riz, algue",
+        "prix": "9.99",
+        "id_restaurant": "rest2"
+    },
+    {
+        "id_plat": "plat3",
+        "nom": "Burger classique",
+        "description": "Boeuf, salade, tomate, fromage",
+        "prix": "8.49",
+        "id_restaurant": "rest3"
+    },
+    {
+        "id_plat": "plat4",
+        "nom": "Pizza végétarienne",
+        "description": "Légumes grillés, mozzarella",
+        "prix": "11.5",
+        "id_restaurant": "rest1"
+    },
+    {
+        "id_plat": "plat5",
+        "nom": "Sushi thon",
+        "description": "Thon, riz, algue",
+        "prix": "10.49",
+        "id_restaurant": "rest2"
+    }
+]

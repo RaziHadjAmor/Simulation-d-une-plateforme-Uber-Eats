@@ -1,0 +1,17 @@
+[
+    {
+        "id_restaurant": "rest1",
+        "nom": "Pizza Palace",
+        "adresse": "15 rue Pasteur"
+    },
+    {
+        "id_restaurant": "rest2",
+        "nom": "Sushi Zen",
+        "adresse": "22 avenue du Japon"
+    },
+    {
+        "id_restaurant": "rest3",
+        "nom": "Burger Corner",
+        "adresse": "5 boulevard Central"
+    }
+]

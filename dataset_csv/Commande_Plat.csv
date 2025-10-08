@@ -1,0 +1,6 @@
+id_plat,id_commande,quantite
+plat1,cmd1,2
+plat4,cmd1,1
+plat2,cmd2,3
+plat5,cmd2,2
+plat3,cmd3,1

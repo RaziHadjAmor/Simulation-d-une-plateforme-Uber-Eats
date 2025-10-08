@@ -1,0 +1,23 @@
+[
+    {
+        "id_commande": "cmd1",
+        "date_": "2025-10-07",
+        "statut": "en cours",
+        "id_restaurant": "rest1",
+        "id_client": "cli1"
+    },
+    {
+        "id_commande": "cmd2",
+        "date_": "2025-10-07",
+        "statut": "préparée",
+        "id_restaurant": "rest2",
+        "id_client": "cli2"
+    },
+    {
+        "id_commande": "cmd3",
+        "date_": "2025-10-08",
+        "statut": "livrée",
+        "id_restaurant": "rest3",
+        "id_client": "cli3"
+    }
+]
