@@ -7,19 +7,28 @@
 <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="Logo-UberEats.png" alt="Logo UberEats" style="max-width: 200px; height: auto;" />
-</div>
-<div class="auth-container">
-  <h1>Bienvenue sur UberEats</h1>
-  <form id="loginForm">
-    <input type="email" id="email" placeholder="Email" required />
-    <input type="password" id="password" placeholder="Mot de passe" required />
-    <button type="submit">Se connecter</button>
-  </form>
-  <p id="loginMsg"></p>
-</div>
+  <div class="login-page">
+    <div class="hero-image">
+      <img src="assets/image_login.jpg" alt="Image de connexion" />
+    </div>
 
-<script src="scripts.js"></script>
+    <div class="auth-column">
+      <div class="logo-wrap">
+        <img src="assets/Logo-UberEats.png" alt="Logo UberEats" class="logo" />
+      </div>
+
+      <div class="auth-container">
+        <h1>Bienvenue sur UberEats</h1>
+        <form id="loginForm">
+          <input type="email" id="email" placeholder="Email" required />
+          <input type="password" id="password" placeholder="Mot de passe" required />
+          <button type="submit">Se connecter</button>
+        </form>
+        <p id="loginMsg"></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>

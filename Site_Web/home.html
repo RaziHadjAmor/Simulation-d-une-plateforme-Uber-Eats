@@ -1,34 +1,32 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Accueil UberEats</title>
-<link rel="stylesheet" href="styles.css" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Accueil UberEats</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-<header class="parallax-header">
-  <h1>Vos commandes UberEats</h1>
-</header>
+  <header class="parallax-header">
+    <h1>Vos commandes UberEats</h1>
+  </header>
 
-<main>
-  <section class="orders-list">
-    <!-- Exemple statique -->
-    <article class="order">
-      <h2>Commande #cmd1</h2>
-      <p>Client : Alice Dupont</p>
-      <p>Restaurant : Pizza Palace</p>
-      <p>Statut : En cours</p>
-    </article>
-    <article class="order">
-      <h2>Commande #cmd2</h2>
-      <p>Client : Bob Martin</p>
-      <p>Restaurant : Sushi Zen</p>
-      <p>Statut : Préparée</p>
-    </article>
-    <!-- Plus de commandes dynamiques ici (via JS/AJAX) -->
+  <main>
+  <section class="add-order">
+    <form id="addOrderForm">
+      <input type="text" id="clientNom" placeholder="Nom du client" required />
+      <input type="text" id="restaurantNom" placeholder="Nom du restaurant" required />
+      <input type="text" id="plats" placeholder="Plats (ex : Pizza x2, Sushi x1)" required />
+      <button type="submit">Ajouter la commande</button>
+    </form>
+    <p id="addOrderMsg"></p>
+  </section>
+
+  <section class="orders-list" id="ordersList">
+    <!-- Les commandes seront ajoutées ici dynamiquement par JS -->
   </section>
 </main>
-<script src="scripts.js"></script>
+
+  <script src="script.js"></script>
 </body>
 </html>
