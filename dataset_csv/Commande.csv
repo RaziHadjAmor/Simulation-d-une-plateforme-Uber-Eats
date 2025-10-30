@@ -1,4 +1,0 @@
-id_commande,date_,statut,id_restaurant,id_client
-cmd1,2025-10-07,en cours,rest1,cli1
-cmd2,2025-10-07,préparée,rest2,cli2
-cmd3,2025-10-08,livrée,rest3,cli3

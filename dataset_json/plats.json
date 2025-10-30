@@ -1,0 +1,422 @@
+[
+    {
+        "id_plat": "plat_001",
+        "nom": "Pizza Margherita",
+        "description": "Sauce tomate, mozzarella, basilic frais",
+        "prix": "12.50",
+        "id_restaurant": "rest_01"
+    },
+    {
+        "id_plat": "plat_002",
+        "nom": "Pizza 4 Saisons",
+        "description": "Artichauts, champignons, jambon, olives",
+        "prix": "15.00",
+        "id_restaurant": "rest_01"
+    },
+    {
+        "id_plat": "plat_003",
+        "nom": "Pâtes à la Carbonara",
+        "description": "Lardons, jaune d'oeuf, pecorino, poivre",
+        "prix": "16.00",
+        "id_restaurant": "rest_01"
+    },
+    {
+        "id_plat": "plat_004",
+        "nom": "Escalope Milanaise",
+        "description": "Veau pané, servi avec des pâtes",
+        "prix": "22.00",
+        "id_restaurant": "rest_01"
+    },
+    {
+        "id_plat": "plat_005",
+        "nom": "Tiramisu",
+        "description": "Mascarpone, café, boudoirs, cacao",
+        "prix": "8.50",
+        "id_restaurant": "rest_01"
+    },
+    {
+        "id_plat": "plat_006",
+        "nom": "Menu California Dream (18 pièces)",
+        "description": "6 california saumon avocat, 6 maki thon, 6 spring rolls",
+        "prix": "21.90",
+        "id_restaurant": "rest_02"
+    },
+    {
+        "id_plat": "plat_007",
+        "nom": "Sashimi Saumon (12 tranches)",
+        "description": "Fines tranches de saumon cru",
+        "prix": "18.00",
+        "id_restaurant": "rest_02"
+    },
+    {
+        "id_plat": "plat_008",
+        "nom": "Chirashi Royal",
+        "description": "Assortiment de poissons crus sur riz vinaigré",
+        "prix": "23.50",
+        "id_restaurant": "rest_02"
+    },
+    {
+        "id_plat": "plat_009",
+        "nom": "Soupe Miso",
+        "description": "Tofu, algues wakame, ciboulette",
+        "prix": "4.00",
+        "id_restaurant": "rest_02"
+    },
+    {
+        "id_plat": "plat_010",
+        "nom": "Gyoza Poulet (6 pièces)",
+        "description": "Raviolis japonais grillés",
+        "prix": "7.50",
+        "id_restaurant": "rest_02"
+    },
+    {
+        "id_plat": "plat_011",
+        "nom": "Le Bartholomé Burger",
+        "description": "Boeuf, cheddar, bacon, oignons caramélisés",
+        "prix": "15.00",
+        "id_restaurant": "rest_03"
+    },
+    {
+        "id_plat": "plat_012",
+        "nom": "Le Victor Burger",
+        "description": "Veau, fourme d'Ambert, confiture de figues",
+        "prix": "16.50",
+        "id_restaurant": "rest_03"
+    },
+    {
+        "id_plat": "plat_013",
+        "nom": "Frites de patate douce",
+        "description": "Sauce maison",
+        "prix": "6.00",
+        "id_restaurant": "rest_03"
+    },
+    {
+        "id_plat": "plat_014",
+        "nom": "Salade César",
+        "description": "Poulet grillé, parmesan, croûtons, sauce césar",
+        "prix": "14.00",
+        "id_restaurant": "rest_03"
+    },
+    {
+        "id_plat": "plat_015",
+        "nom": "Cheesecake",
+        "description": "Spéculos, cream cheese, coulis de fruits rouges",
+        "prix": "7.00",
+        "id_restaurant": "rest_03"
+    },
+    {
+        "id_plat": "plat_016",
+        "nom": "Oeuf mayonnaise",
+        "description": "Recette traditionnelle",
+        "prix": "3.50",
+        "id_restaurant": "rest_04"
+    },
+    {
+        "id_plat": "plat_017",
+        "nom": "Poireaux vinaigrette",
+        "description": "Classique de la cuisine française",
+        "prix": "4.00",
+        "id_restaurant": "rest_04"
+    },
+    {
+        "id_plat": "plat_018",
+        "nom": "Steak frites",
+        "description": "Pièce du boucher, frites maison",
+        "prix": "13.50",
+        "id_restaurant": "rest_04"
+    },
+    {
+        "id_plat": "plat_019",
+        "nom": "Tête de veau sauce gribiche",
+        "description": "Plat canaille par excellence",
+        "prix": "15.00",
+        "id_restaurant": "rest_04"
+    },
+    {
+        "id_plat": "plat_020",
+        "nom": "Mousse au chocolat",
+        "description": "Onctueuse et intense",
+        "prix": "5.00",
+        "id_restaurant": "rest_04"
+    },
+    {
+        "id_plat": "plat_021",
+        "nom": "Formule Entrecôte",
+        "description": "Salade aux noix, entrecôte, sauce secrète, frites",
+        "prix": "26.50",
+        "id_restaurant": "rest_05"
+    },
+    {
+        "id_plat": "plat_022",
+        "nom": "Vacherin",
+        "description": "Meringue, glace, chantilly",
+        "prix": "9.00",
+        "id_restaurant": "rest_05"
+    },
+    {
+        "id_plat": "plat_023",
+        "nom": "Le P'tit Marcel Burger",
+        "description": "Boeuf, Saint-Nectaire, poitrine fumée",
+        "prix": "14.00",
+        "id_restaurant": "rest_06"
+    },
+    {
+        "id_plat": "plat_024",
+        "nom": "La Poutine de Marcel",
+        "description": "Frites, fromage en grains, sauce brune",
+        "prix": "9.00",
+        "id_restaurant": "rest_06"
+    },
+    {
+        "id_plat": "plat_025",
+        "nom": "Pâté en croûte",
+        "description": "Champion du monde",
+        "prix": "18.00",
+        "id_restaurant": "rest_07"
+    },
+    {
+        "id_plat": "plat_026",
+        "nom": "Quenelle de brochet sauce Nantua",
+        "description": "Spécialité lyonnaise",
+        "prix": "25.00",
+        "id_restaurant": "rest_07"
+    },
+    {
+        "id_plat": "plat_027",
+        "nom": "Ramen Shoyu",
+        "description": "Bouillon soja, porc chashu, oeuf mariné",
+        "prix": "21.00",
+        "id_restaurant": "rest_08"
+    },
+    {
+        "id_plat": "plat_028",
+        "nom": "Karaage",
+        "description": "Poulet frit japonais",
+        "prix": "9.00",
+        "id_restaurant": "rest_08"
+    },
+    {
+        "id_plat": "plat_029",
+        "nom": "Pizza Truffe",
+        "description": "Crème de truffe, mozzarella, roquette, parmesan",
+        "prix": "22.00",
+        "id_restaurant": "rest_10"
+    },
+    {
+        "id_plat": "plat_030",
+        "nom": "Pizza Marinara",
+        "description": "Tomate, ail, origan, huile d'olive",
+        "prix": "9.00",
+        "id_restaurant": "rest_10"
+    },
+    {
+        "id_plat": "plat_031",
+        "nom": "Menu Dégustation",
+        "description": "Parcours culinaire en 8 temps",
+        "prix": "150.00",
+        "id_restaurant": "rest_11"
+    },
+    {
+        "id_plat": "plat_032",
+        "nom": "Bouillabaisse Marseillaise",
+        "description": "Poissons de roche, rouille, croûtons",
+        "prix": "45.00",
+        "id_restaurant": "rest_12"
+    },
+    {
+        "id_plat": "plat_033",
+        "nom": "Pizza Moitié-Moitié",
+        "description": "Anchois, emmental, un classique",
+        "prix": "14.00",
+        "id_restaurant": "rest_14"
+    },
+    {
+        "id_plat": "plat_034",
+        "nom": "Tacos 3 viandes",
+        "description": "Sauce fromagère maison",
+        "prix": "11.00",
+        "id_restaurant": "rest_15"
+    },
+    {
+        "id_plat": "plat_035",
+        "nom": "Magret de canard",
+        "description": "Sauce au miel, pommes de terre sarladaises",
+        "prix": "28.00",
+        "id_restaurant": "rest_16"
+    },
+    {
+        "id_plat": "plat_036",
+        "nom": "Ramen Tonkotsu",
+        "description": "Bouillon porc, nouilles, chashu, oeuf",
+        "prix": "15.00",
+        "id_restaurant": "rest_17"
+    },
+    {
+        "id_plat": "plat_037",
+        "nom": "Bao au porc braisé (x2)",
+        "description": "Brioche vapeur, porc laqué, cacahuètes",
+        "prix": "10.00",
+        "id_restaurant": "rest_18"
+    },
+    {
+        "id_plat": "plat_038",
+        "nom": "Galette complète",
+        "description": "Jambon, oeuf, emmental",
+        "prix": "7.50",
+        "id_restaurant": "rest_19"
+    },
+    {
+        "id_plat": "plat_039",
+        "nom": "Plateau de fruits de mer",
+        "description": "Huîtres, crevettes, bulots, langoustines",
+        "prix": "35.00",
+        "id_restaurant": "rest_19"
+    },
+    {
+        "id_plat": "plat_040",
+        "nom": "Assiette de fromages affinés",
+        "description": "Sélection de la fromagerie",
+        "prix": "12.00",
+        "id_restaurant": "rest_21"
+    },
+    {
+        "id_plat": "plat_041",
+        "nom": "Socca (portion)",
+        "description": "Galette de pois chiches, spécialité niçoise",
+        "prix": "4.00",
+        "id_restaurant": "rest_23"
+    },
+    {
+        "id_plat": "plat_042",
+        "nom": "Salade Niçoise",
+        "description": "La vraie, avec des produits frais",
+        "prix": "16.00",
+        "id_restaurant": "rest_23"
+    },
+    {
+        "id_plat": "plat_043",
+        "nom": "Petits farcis niçois",
+        "description": "Légumes de saison farcis à la viande",
+        "prix": "18.00",
+        "id_restaurant": "rest_25"
+    },
+    {
+        "id_plat": "plat_044",
+        "nom": "Cassoulet Toulousain",
+        "description": "Haricots tarbais, saucisse de Toulouse, confit",
+        "prix": "24.00",
+        "id_restaurant": "rest_27"
+    },
+    {
+        "id_plat": "plat_045",
+        "nom": "Foie gras de canard",
+        "description": "Chutney de figues, pain grillé",
+        "prix": "22.00",
+        "id_restaurant": "rest_28"
+    },
+    {
+        "id_plat": "plat_046",
+        "nom": "Menu Découverte",
+        "description": "Signature du Chef Michel Sarran",
+        "prix": "95.00",
+        "id_restaurant": "rest_29"
+    },
+    {
+        "id_plat": "plat_047",
+        "nom": "Choucroute garnie royale",
+        "description": "8 garnitures, spécialité alsacienne",
+        "prix": "26.00",
+        "id_restaurant": "rest_31"
+    },
+    {
+        "id_plat": "plat_048",
+        "nom": "Tarte flambée (Flammekueche)",
+        "description": "Crème, oignons, lardons",
+        "prix": "11.00",
+        "id_restaurant": "rest_32"
+    },
+    {
+        "id_plat": "plat_049",
+        "nom": "Baeckeoffe",
+        "description": "Plat traditionnel à base de viandes et pommes de terre",
+        "prix": "23.00",
+        "id_restaurant": "rest_34"
+    },
+    {
+        "id_plat": "plat_050",
+        "nom": "Presskopf",
+        "description": "Tête pressée en gelée, vinaigrette",
+        "prix": "9.00",
+        "id_restaurant": "rest_36"
+    },
+    {
+        "id_plat": "plat_051",
+        "nom": "Menu du Marché",
+        "description": "Entrée, plat, dessert selon arrivage",
+        "prix": "35.00",
+        "id_restaurant": "rest_37"
+    },
+    {
+        "id_plat": "plat_052",
+        "nom": "Sushi Omakase",
+        "description": "Le chef choisit pour vous",
+        "prix": "60.00",
+        "id_restaurant": "rest_38"
+    },
+    {
+        "id_plat": "plat_053",
+        "nom": "Plateau de fruits de mer 'Royal'",
+        "description": "Homard, huîtres, langoustines, etc.",
+        "prix": "120.00",
+        "id_restaurant": "rest_40"
+    },
+    {
+        "id_plat": "plat_054",
+        "nom": "Carbonade flamande",
+        "description": "Mijoté de boeuf à la bière",
+        "prix": "17.00",
+        "id_restaurant": "rest_43"
+    },
+    {
+        "id_plat": "plat_055",
+        "nom": "Welsh complet",
+        "description": "Pain, jambon, cheddar fondu à la bière, oeuf",
+        "prix": "15.50",
+        "id_restaurant": "rest_44"
+    },
+    {
+        "id_plat": "plat_056",
+        "nom": "Moules frites Maroilles",
+        "description": "Crème de Maroilles, frites fraîches",
+        "prix": "18.00",
+        "id_restaurant": "rest_46"
+    },
+    {
+        "id_plat": "plat_057",
+        "nom": "Tartare de boeuf Charolais",
+        "description": "Préparé ou non, frites, salade",
+        "prix": "19.00",
+        "id_restaurant": "rest_47"
+    },
+    {
+        "id_plat": "plat_058",
+        "nom": "Poularde de Bresse demi-deuil",
+        "description": "Recette historique de la Mère Brazier",
+        "prix": "85.00",
+        "id_restaurant": "rest_48"
+    },
+    {
+        "id_plat": "plat_059",
+        "nom": "Homard bleu et ris de veau",
+        "description": "Association terre et mer audacieuse",
+        "prix": "75.00",
+        "id_restaurant": "rest_49"
+    },
+    {
+        "id_plat": "plat_060",
+        "nom": "Risotto aux cèpes",
+        "description": "Cèpes frais, parmesan reggiano",
+        "prix": "24.00",
+        "id_restaurant": "rest_50"
+    }
+]

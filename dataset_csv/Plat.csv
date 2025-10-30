@@ -1,6 +1,0 @@
-id_plat,nom,description,prix,id_restaurant
-plat1,Pizza 4 fromages,"Mozzarella, chèvre, bleu, parmesan",12.99,rest1
-plat2,Sushi saumon,"Saumon, riz, algue",9.99,rest2
-plat3,Burger classique,"Boeuf, salade, tomate, fromage",8.49,rest3
-plat4,Pizza végétarienne,"Légumes grillés, mozzarella",11.5,rest1
-plat5,Sushi thon,"Thon, riz, algue",10.49,rest2

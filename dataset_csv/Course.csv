@@ -1,4 +1,0 @@
-id_course,point_retrait,point_livraison,retribution,statut,id_livreur,id_commande
-course1,15 rue Pasteur,10 rue du Soleil,5.20,en cours,liv1,cmd1
-course2,22 avenue du Japon,21 avenue des Fleurs,6.00,préparée,liv2,cmd2
-course3,5 boulevard Central,3 impasse Verte,4.80,livrée,liv3,cmd3

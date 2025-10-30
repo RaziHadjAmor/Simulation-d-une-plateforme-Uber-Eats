@@ -17,10 +17,10 @@ def csv_to_json(csv_filepath, json_filename):
         json.dump(data, json_file, indent=4, ensure_ascii=False)
 
 # Appels de conversion avec enregistrement dans dataset_json
-csv_to_json('dataset_csv/Client.csv', 'Client.json')
-csv_to_json('dataset_csv/Restaurant.csv', 'Restaurant.json')
-csv_to_json('dataset_csv/Plat.csv', 'Plat.json')
+csv_to_json('dataset_csv/clients.csv', 'clients.json')
+csv_to_json('dataset_csv/restaurants.csv', 'restaurants.json')
+csv_to_json('dataset_csv/plats.csv', 'plats.json')
+csv_to_json('dataset_csv/livreurs.csv', 'livreurs.json')
 csv_to_json('dataset_csv/Commande.csv', 'Commande.json')
-csv_to_json('dataset_csv/Livreur.csv', 'Livreur.json')
 csv_to_json('dataset_csv/Course.csv', 'Course.json')
 csv_to_json('dataset_csv/Commande_Plat.csv', 'Commande_Plat.json')

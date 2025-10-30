@@ -1,0 +1,61 @@
+id_plat,nom,description,prix,id_restaurant
+plat_001,Pizza Margherita,"Sauce tomate, mozzarella, basilic frais",12.50,rest_01
+plat_002,Pizza 4 Saisons,"Artichauts, champignons, jambon, olives",15.00,rest_01
+plat_003,Pâtes à la Carbonara,"Lardons, jaune d'oeuf, pecorino, poivre",16.00,rest_01
+plat_004,Escalope Milanaise,"Veau pané, servi avec des pâtes",22.00,rest_01
+plat_005,Tiramisu,"Mascarpone, café, boudoirs, cacao",8.50,rest_01
+plat_006,Menu California Dream (18 pièces),"6 california saumon avocat, 6 maki thon, 6 spring rolls",21.90,rest_02
+plat_007,Sashimi Saumon (12 tranches),Fines tranches de saumon cru,18.00,rest_02
+plat_008,Chirashi Royal,Assortiment de poissons crus sur riz vinaigré,23.50,rest_02
+plat_009,Soupe Miso,"Tofu, algues wakame, ciboulette",4.00,rest_02
+plat_010,Gyoza Poulet (6 pièces),Raviolis japonais grillés,7.50,rest_02
+plat_011,Le Bartholomé Burger,"Boeuf, cheddar, bacon, oignons caramélisés",15.00,rest_03
+plat_012,Le Victor Burger,"Veau, fourme d'Ambert, confiture de figues",16.50,rest_03
+plat_013,Frites de patate douce,Sauce maison,6.00,rest_03
+plat_014,Salade César,"Poulet grillé, parmesan, croûtons, sauce césar",14.00,rest_03
+plat_015,Cheesecake,"Spéculos, cream cheese, coulis de fruits rouges",7.00,rest_03
+plat_016,Oeuf mayonnaise,Recette traditionnelle,3.50,rest_04
+plat_017,Poireaux vinaigrette,Classique de la cuisine française,4.00,rest_04
+plat_018,Steak frites,"Pièce du boucher, frites maison",13.50,rest_04
+plat_019,Tête de veau sauce gribiche,Plat canaille par excellence,15.00,rest_04
+plat_020,Mousse au chocolat,Onctueuse et intense,5.00,rest_04
+plat_021,Formule Entrecôte,"Salade aux noix, entrecôte, sauce secrète, frites",26.50,rest_05
+plat_022,Vacherin,"Meringue, glace, chantilly",9.00,rest_05
+plat_023,Le P'tit Marcel Burger,"Boeuf, Saint-Nectaire, poitrine fumée",14.00,rest_06
+plat_024,La Poutine de Marcel,"Frites, fromage en grains, sauce brune",9.00,rest_06
+plat_025,Pâté en croûte,Champion du monde,18.00,rest_07
+plat_026,Quenelle de brochet sauce Nantua,Spécialité lyonnaise,25.00,rest_07
+plat_027,Ramen Shoyu,"Bouillon soja, porc chashu, oeuf mariné",21.00,rest_08
+plat_028,Karaage,Poulet frit japonais,9.00,rest_08
+plat_029,Pizza Truffe,"Crème de truffe, mozzarella, roquette, parmesan",22.00,rest_10
+plat_030,Pizza Marinara,"Tomate, ail, origan, huile d'olive",9.00,rest_10
+plat_031,Menu Dégustation,Parcours culinaire en 8 temps,150.00,rest_11
+plat_032,Bouillabaisse Marseillaise,"Poissons de roche, rouille, croûtons",45.00,rest_12
+plat_033,Pizza Moitié-Moitié,"Anchois, emmental, un classique",14.00,rest_14
+plat_034,Tacos 3 viandes,Sauce fromagère maison,11.00,rest_15
+plat_035,Magret de canard,"Sauce au miel, pommes de terre sarladaises",28.00,rest_16
+plat_036,Ramen Tonkotsu,"Bouillon porc, nouilles, chashu, oeuf",15.00,rest_17
+plat_037,Bao au porc braisé (x2),"Brioche vapeur, porc laqué, cacahuètes",10.00,rest_18
+plat_038,Galette complète,"Jambon, oeuf, emmental",7.50,rest_19
+plat_039,Plateau de fruits de mer,"Huîtres, crevettes, bulots, langoustines",35.00,rest_19
+plat_040,Assiette de fromages affinés,Sélection de la fromagerie,12.00,rest_21
+plat_041,Socca (portion),"Galette de pois chiches, spécialité niçoise",4.00,rest_23
+plat_042,Salade Niçoise,"La vraie, avec des produits frais",16.00,rest_23
+plat_043,Petits farcis niçois,Légumes de saison farcis à la viande,18.00,rest_25
+plat_044,Cassoulet Toulousain,"Haricots tarbais, saucisse de Toulouse, confit",24.00,rest_27
+plat_045,Foie gras de canard,"Chutney de figues, pain grillé",22.00,rest_28
+plat_046,Menu Découverte,Signature du Chef Michel Sarran,95.00,rest_29
+plat_047,Choucroute garnie royale,"8 garnitures, spécialité alsacienne",26.00,rest_31
+plat_048,Tarte flambée (Flammekueche),"Crème, oignons, lardons",11.00,rest_32
+plat_049,Baeckeoffe,Plat traditionnel à base de viandes et pommes de terre,23.00,rest_34
+plat_050,Presskopf,"Tête pressée en gelée, vinaigrette",9.00,rest_36
+plat_051,Menu du Marché,"Entrée, plat, dessert selon arrivage",35.00,rest_37
+plat_052,Sushi Omakase,Le chef choisit pour vous,60.00,rest_38
+plat_053,Plateau de fruits de mer 'Royal',"Homard, huîtres, langoustines, etc.",120.00,rest_40
+plat_054,Carbonade flamande,Mijoté de boeuf à la bière,17.00,rest_43
+plat_055,Welsh complet,"Pain, jambon, cheddar fondu à la bière, oeuf",15.50,rest_44
+plat_056,Moules frites Maroilles,"Crème de Maroilles, frites fraîches",18.00,rest_46
+plat_057,Tartare de boeuf Charolais,"Préparé ou non, frites, salade",19.00,rest_47
+plat_058,Poularde de Bresse demi-deuil,Recette historique de la Mère Brazier,85.00,rest_48
+plat_059,Homard bleu et ris de veau,Association terre et mer audacieuse,75.00,rest_49
+plat_060,Risotto aux cèpes,"Cèpes frais, parmesan reggiano",24.00,rest_50
