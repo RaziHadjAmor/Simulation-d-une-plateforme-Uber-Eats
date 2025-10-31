@@ -1,252 +1,202 @@
 [
     {
         "id_livreur": "livr_01",
-        "nom": "Julien Moreau",
-        "vehicule": "Scooter"
+        "nom": "Julien Moreau"
     },
     {
         "id_livreur": "livr_02",
-        "nom": "Manon Petit",
-        "vehicule": "Vélo électrique"
+        "nom": "Manon Petit"
     },
     {
         "id_livreur": "livr_03",
-        "nom": "Lucas Garcia",
-        "vehicule": "Scooter"
+        "nom": "Lucas Garcia"
     },
     {
         "id_livreur": "livr_04",
-        "nom": "Emma Martin",
-        "vehicule": "Vélo"
+        "nom": "Emma Martin"
     },
     {
         "id_livreur": "livr_05",
-        "nom": "Hugo Bernard",
-        "vehicule": "Voiture"
+        "nom": "Hugo Bernard"
     },
     {
         "id_livreur": "livr_06",
-        "nom": "Chloé Durand",
-        "vehicule": "Scooter"
+        "nom": "Chloé Durand"
     },
     {
         "id_livreur": "livr_07",
-        "nom": "Louis Dubois",
-        "vehicule": "Vélo électrique"
+        "nom": "Louis Dubois"
     },
     {
         "id_livreur": "livr_08",
-        "nom": "Alice Leroy",
-        "vehicule": "Vélo"
+        "nom": "Alice Leroy"
     },
     {
         "id_livreur": "livr_09",
-        "nom": "Gabriel Robert",
-        "vehicule": "Scooter"
+        "nom": "Gabriel Robert"
     },
     {
         "id_livreur": "livr_10",
-        "nom": "Léa Simon",
-        "vehicule": "Voiture"
+        "nom": "Léa Simon"
     },
     {
         "id_livreur": "livr_11",
-        "nom": "Arthur Richard",
-        "vehicule": "Vélo électrique"
+        "nom": "Arthur Richard"
     },
     {
         "id_livreur": "livr_12",
-        "nom": "Camille Roux",
-        "vehicule": "Scooter"
+        "nom": "Camille Roux"
     },
     {
         "id_livreur": "livr_13",
-        "nom": "Jules David",
-        "vehicule": "Vélo"
+        "nom": "Jules David"
     },
     {
         "id_livreur": "livr_14",
-        "nom": "Louise Bertrand",
-        "vehicule": "Scooter"
+        "nom": "Louise Bertrand"
     },
     {
         "id_livreur": "livr_15",
-        "nom": "Adam Michel",
-        "vehicule": "Voiture"
+        "nom": "Adam Michel"
     },
     {
         "id_livreur": "livr_16",
-        "nom": "Rose Fournier",
-        "vehicule": "Vélo électrique"
+        "nom": "Rose Fournier"
     },
     {
         "id_livreur": "livr_17",
-        "nom": "Raphaël Girard",
-        "vehicule": "Scooter"
+        "nom": "Raphaël Girard"
     },
     {
         "id_livreur": "livr_18",
-        "nom": "Anna Bonhomme",
-        "vehicule": "Vélo"
+        "nom": "Anna Bonhomme"
     },
     {
         "id_livreur": "livr_19",
-        "nom": "Paul Lambert",
-        "vehicule": "Scooter"
+        "nom": "Paul Lambert"
     },
     {
         "id_livreur": "livr_20",
-        "nom": "Mia Fontaine",
-        "vehicule": "Vélo électrique"
+        "nom": "Mia Fontaine"
     },
     {
         "id_livreur": "livr_21",
-        "nom": "Noah Rousseau",
-        "vehicule": "Scooter"
+        "nom": "Noah Rousseau"
     },
     {
         "id_livreur": "livr_22",
-        "nom": "Lina Vincent",
-        "vehicule": "Vélo"
+        "nom": "Lina Vincent"
     },
     {
         "id_livreur": "livr_23",
-        "nom": "Léo Lefevre",
-        "vehicule": "Voiture"
+        "nom": "Léo Lefevre"
     },
     {
         "id_livreur": "livr_24",
-        "nom": "Eva Faure",
-        "vehicule": "Scooter"
+        "nom": "Eva Faure"
     },
     {
         "id_livreur": "livr_25",
-        "nom": "Tom Andre",
-        "vehicule": "Vélo électrique"
+        "nom": "Tom Andre"
     },
     {
         "id_livreur": "livr_26",
-        "nom": "Clara Blanc",
-        "vehicule": "Scooter"
+        "nom": "Clara Blanc"
     },
     {
         "id_livreur": "livr_27",
-        "nom": "Ethan Mercier",
-        "vehicule": "Vélo"
+        "nom": "Ethan Mercier"
     },
     {
         "id_livreur": "livr_28",
-        "nom": "Iris Guerin",
-        "vehicule": "Scooter"
+        "nom": "Iris Guerin"
     },
     {
         "id_livreur": "livr_29",
-        "nom": "Sacha Robin",
-        "vehicule": "Voiture"
+        "nom": "Sacha Robin"
     },
     {
         "id_livreur": "livr_30",
-        "nom": "Jade Boyer",
-        "vehicule": "Vélo électrique"
+        "nom": "Jade Boyer"
     },
     {
         "id_livreur": "livr_31",
-        "nom": "Gabin Garnier",
-        "vehicule": "Scooter"
+        "nom": "Gabin Garnier"
     },
     {
         "id_livreur": "livr_32",
-        "nom": "Ambre Clement",
-        "vehicule": "Vélo"
+        "nom": "Ambre Clement"
     },
     {
         "id_livreur": "livr_33",
-        "nom": "Mohamed Morin",
-        "vehicule": "Scooter"
+        "nom": "Mohamed Morin"
     },
     {
         "id_livreur": "livr_34",
-        "nom": "Juliette Nicolas",
-        "vehicule": "Vélo électrique"
+        "nom": "Juliette Nicolas"
     },
     {
         "id_livreur": "livr_35",
-        "nom": "Aaron Henry",
-        "vehicule": "Voiture"
+        "nom": "Aaron Henry"
     },
     {
         "id_livreur": "livr_36",
-        "nom": "Louna Muller",
-        "vehicule": "Scooter"
+        "nom": "Louna Muller"
     },
     {
         "id_livreur": "livr_37",
-        "nom": "Théo Lecomte",
-        "vehicule": "Vélo"
+        "nom": "Théo Lecomte"
     },
     {
         "id_livreur": "livr_38",
-        "nom": "Mila Chevalier",
-        "vehicule": "Scooter"
+        "nom": "Mila Chevalier"
     },
     {
         "id_livreur": "livr_39",
-        "nom": "Enzo Pereira",
-        "vehicule": "Vélo électrique"
+        "nom": "Enzo Pereira"
     },
     {
         "id_livreur": "livr_40",
-        "nom": "Agathe Marchand",
-        "vehicule": "Scooter"
+        "nom": "Agathe Marchand"
     },
     {
         "id_livreur": "livr_41",
-        "nom": "Axel Dufour",
-        "vehicule": "Voiture"
+        "nom": "Axel Dufour"
     },
     {
         "id_livreur": "livr_42",
-        "nom": "Romy Hubert",
-        "vehicule": "Vélo"
+        "nom": "Romy Hubert"
     },
     {
         "id_livreur": "livr_43",
-        "nom": "Maël Schmitt",
-        "vehicule": "Scooter"
+        "nom": "Maël Schmitt"
     },
     {
         "id_livreur": "livr_44",
-        "nom": "Sofia Gautier",
-        "vehicule": "Vélo électrique"
+        "nom": "Sofia Gautier"
     },
     {
         "id_livreur": "livr_45",
-        "nom": "Noé Colin",
-        "vehicule": "Scooter"
+        "nom": "Noé Colin"
     },
     {
         "id_livreur": "livr_46",
-        "nom": "Léonie Roger",
-        "vehicule": "Vélo"
+        "nom": "Léonie Roger"
     },
     {
         "id_livreur": "livr_47",
-        "nom": "Ibrahim Carre",
-        "vehicule": "Scooter"
+        "nom": "Ibrahim Carre"
     },
     {
         "id_livreur": "livr_48",
-        "nom": "Alix Lemoine",
-        "vehicule": "Voiture"
+        "nom": "Alix Lemoine"
     },
     {
         "id_livreur": "livr_49",
-        "nom": "Victor Picard",
-        "vehicule": "Vélo électrique"
+        "nom": "Victor Picard"
     },
     {
         "id_livreur": "livr_50",
-        "nom": "Adèle Renaud",
-        "vehicule": "Scooter"
+        "nom": "Adèle Renaud"
     }
 ]

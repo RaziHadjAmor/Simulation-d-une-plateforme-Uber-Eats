@@ -8,10 +8,9 @@ def fusionner_fichiers_json():
     le résultat dans un nouveau fichier.
     """
     fichiers_sources = {
-        "restaurants": "restaurants.json",
-        "plats": "plats.json",
-        "clients": "clients.json",
-        "livreurs": "livreurs.json"
+        "restaurants": "dataset_json/restaurants.json",
+        "plats": "dataset_json/plats.json",
+        "livreurs": "dataset_json/livreurs.json"
     }
     
     donnees_brutes = {}
@@ -52,13 +51,12 @@ def fusionner_fichiers_json():
     # Préparer le JSON final
     donnees_finales = {
         "restaurants": list(restaurants_map.values()),
-        "clients": donnees_brutes["clients"],
         "livreurs": donnees_brutes["livreurs"]
     }
     print("-> Fusion terminée.")
 
     # --- 3. Sauvegarde du fichier JSON fusionné ---
-    fichier_destination = "donnees_completes.json"
+    fichier_destination = "dataset_json/donnees_completes.json"
     try:
         with open(fichier_destination, 'w', encoding='utf-8') as f:
             # indent=4 pour une belle mise en forme, ensure_ascii=False pour bien gérer les accents

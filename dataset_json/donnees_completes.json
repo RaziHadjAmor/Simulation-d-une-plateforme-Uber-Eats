@@ -758,858 +758,206 @@
             ]
         }
     ],
-    "clients": [
-        {
-            "id_client": "cli_001",
-            "nom": "Marie Dubois",
-            "email": "marie.dubois@example.com",
-            "adresse": "123 Boulevard Saint-Germain, 75006 Paris"
-        },
-        {
-            "id_client": "cli_002",
-            "nom": "Thomas Leroy",
-            "email": "thomas.leroy@example.com",
-            "adresse": "45 Rue de la Barre, 69002 Lyon"
-        },
-        {
-            "id_client": "cli_003",
-            "nom": "Julie Bernard",
-            "email": "julie.bernard@example.com",
-            "adresse": "78 Quai des Chartrons, 33000 Bordeaux"
-        },
-        {
-            "id_client": "cli_004",
-            "nom": "Nicolas Petit",
-            "email": "nicolas.petit@example.com",
-            "adresse": "90 Promenade des Anglais, 06000 Nice"
-        },
-        {
-            "id_client": "cli_005",
-            "nom": "Laura Robert",
-            "email": "laura.robert@example.com",
-            "adresse": "56 Cours Vitton, 69006 Lyon"
-        },
-        {
-            "id_client": "cli_006",
-            "nom": "Alexandre Richard",
-            "email": "alex.richard@example.com",
-            "adresse": "34 Rue de la Roquette, 75011 Paris"
-        },
-        {
-            "id_client": "cli_007",
-            "nom": "Elodie Durand",
-            "email": "elodie.durand@example.com",
-            "adresse": "21 Boulevard de la Liberté, 13001 Marseille"
-        },
-        {
-            "id_client": "cli_008",
-            "nom": "Matthieu Simon",
-            "email": "matt.simon@example.com",
-            "adresse": "10 Place du Capitole, 31000 Toulouse"
-        },
-        {
-            "id_client": "cli_009",
-            "nom": "Céline Michel",
-            "email": "celine.michel@example.com",
-            "adresse": "8 Rue des Juifs, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_010",
-            "nom": "Antoine Fournier",
-            "email": "antoine.fournier@example.com",
-            "adresse": "15 Place Rihour, 59800 Lille"
-        },
-        {
-            "id_client": "cli_011",
-            "nom": "Pauline Girard",
-            "email": "pauline.girard@example.com",
-            "adresse": "29 Rue Montgrand, 13006 Marseille"
-        },
-        {
-            "id_client": "cli_012",
-            "nom": "Clément Lambert",
-            "email": "clement.lambert@example.com",
-            "adresse": "67 Avenue Jean Jaurès, 69007 Lyon"
-        },
-        {
-            "id_client": "cli_013",
-            "nom": "Charlotte Bonhomme",
-            "email": "charlotte.b@example.com",
-            "adresse": "5 Rue de la Paix, 75002 Paris"
-        },
-        {
-            "id_client": "cli_014",
-            "nom": "François Fontaine",
-            "email": "francois.f@example.com",
-            "adresse": "88 Allées Jean Jaurès, 31000 Toulouse"
-        },
-        {
-            "id_client": "cli_015",
-            "nom": "Sophie Rousseau",
-            "email": "sophie.rousseau@example.com",
-            "adresse": "14 Rue de la Course, 33000 Bordeaux"
-        },
-        {
-            "id_client": "cli_016",
-            "nom": "Guillaume Vincent",
-            "email": "guillaume.v@example.com",
-            "adresse": "3 Rue de la République, 44000 Nantes"
-        },
-        {
-            "id_client": "cli_017",
-            "nom": "Audrey Lefevre",
-            "email": "audrey.lefevre@example.com",
-            "adresse": "9 Rue de la Loge, 13002 Marseille"
-        },
-        {
-            "id_client": "cli_018",
-            "nom": "Romain Faure",
-            "email": "romain.faure@example.com",
-            "adresse": "40 Rue des Godrans, 21000 Dijon"
-        },
-        {
-            "id_client": "cli_019",
-            "nom": "Valentin Andre",
-            "email": "valentin.andre@example.com",
-            "adresse": "2 Place de Jaude, 63000 Clermont-Ferrand"
-        },
-        {
-            "id_client": "cli_020",
-            "nom": "Marion Blanc",
-            "email": "marion.blanc@example.com",
-            "adresse": "17 Rue des Arts, 31000 Toulouse"
-        },
-        {
-            "id_client": "cli_021",
-            "nom": "Maxime Mercier",
-            "email": "maxime.mercier@example.com",
-            "adresse": "55 Quai Richelieu, 33000 Bordeaux"
-        },
-        {
-            "id_client": "cli_022",
-            "nom": "Juliette Guerin",
-            "email": "juliette.guerin@example.com",
-            "adresse": "70 Rue Nationale, 59800 Lille"
-        },
-        {
-            "id_client": "cli_023",
-            "nom": "Benjamin Robin",
-            "email": "benjamin.robin@example.com",
-            "adresse": "1 Rue de la Mésange, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_024",
-            "nom": "Stéphanie Boyer",
-            "email": "stephanie.boyer@example.com",
-            "adresse": "33 Rue de Brest, 69002 Lyon"
-        },
-        {
-            "id_client": "cli_025",
-            "nom": "David Garnier",
-            "email": "david.garnier@example.com",
-            "adresse": "99 Rue de Rivoli, 75001 Paris"
-        },
-        {
-            "id_client": "cli_026",
-            "nom": "Émilie Clement",
-            "email": "emilie.clement@example.com",
-            "adresse": "2 Rue du Puits Vert, 31000 Toulouse"
-        },
-        {
-            "id_client": "cli_027",
-            "nom": "Vincent Morin",
-            "email": "vincent.morin@example.com",
-            "adresse": "48 Rue Saint-Ferréol, 13001 Marseille"
-        },
-        {
-            "id_client": "cli_028",
-            "nom": "Isabelle Nicolas",
-            "email": "isabelle.nicolas@example.com",
-            "adresse": "22 Rue Esquermoise, 59000 Lille"
-        },
-        {
-            "id_client": "cli_029",
-            "nom": "Sébastien Henry",
-            "email": "sebastien.henry@example.com",
-            "adresse": "6 Place Kléber, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_030",
-            "nom": "Hélène Muller",
-            "email": "helene.muller@example.com",
-            "adresse": "7 Rue de la Charité, 69002 Lyon"
-        },
-        {
-            "id_client": "cli_031",
-            "nom": "Frédéric Lecomte",
-            "email": "frederic.lecomte@example.com",
-            "adresse": "11 Rue de la Verrerie, 75004 Paris"
-        },
-        {
-            "id_client": "cli_032",
-            "nom": "Sandrine Chevalier",
-            "email": "sandrine.c@example.com",
-            "adresse": "30 Cours Franklin Roosevelt, 13001 Marseille"
-        },
-        {
-            "id_client": "cli_033",
-            "nom": "Olivier Pereira",
-            "email": "olivier.p@example.com",
-            "adresse": "8 Place de la Comédie, 34000 Montpellier"
-        },
-        {
-            "id_client": "cli_034",
-            "nom": "Virginie Marchand",
-            "email": "virginie.m@example.com",
-            "adresse": "19 Rue du Taur, 31000 Toulouse"
-        },
-        {
-            "id_client": "cli_035",
-            "nom": "Thierry Dufour",
-            "email": "thierry.dufour@example.com",
-            "adresse": "5 Quai des Salinières, 33000 Bordeaux"
-        },
-        {
-            "id_client": "cli_036",
-            "nom": "Sylvie Hubert",
-            "email": "sylvie.hubert@example.com",
-            "adresse": "10 Rue Crébillon, 44000 Nantes"
-        },
-        {
-            "id_client": "cli_037",
-            "nom": "Christophe Schmitt",
-            "email": "christophe.s@example.com",
-            "adresse": "27 Rue du Vieux Marché aux Vins, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_038",
-            "nom": "Catherine Gautier",
-            "email": "catherine.g@example.com",
-            "adresse": "65 Boulevard de la Croisette, 06400 Cannes"
-        },
-        {
-            "id_client": "cli_039",
-            "nom": "Laurent Colin",
-            "email": "laurent.colin@example.com",
-            "adresse": "3 Rue du Poids de l'Huile, 31000 Toulouse"
-        },
-        {
-            "id_client": "cli_040",
-            "nom": "Nathalie Roger",
-            "email": "nathalie.roger@example.com",
-            "adresse": "72 Rue du Faubourg Saint-Honoré, 75008 Paris"
-        },
-        {
-            "id_client": "cli_041",
-            "nom": "Philippe Carre",
-            "email": "philippe.carre@example.com",
-            "adresse": "4 Rue des Marronniers, 69002 Lyon"
-        },
-        {
-            "id_client": "cli_042",
-            "nom": "Anne Lemoine",
-            "email": "anne.lemoine@example.com",
-            "adresse": "16 Rue de la Grande Chaussée, 59800 Lille"
-        },
-        {
-            "id_client": "cli_043",
-            "nom": "Patrick Picard",
-            "email": "patrick.picard@example.com",
-            "adresse": "5 Place du Parlement, 35000 Rennes"
-        },
-        {
-            "id_client": "cli_044",
-            "nom": "Véronique Renaud",
-            "email": "veronique.renaud@example.com",
-            "adresse": "9 Rue de la Pomme, 31000 Toulouse"
-        },
-        {
-            "id_client": "cli_045",
-            "nom": "Jean-Pierre Masson",
-            "email": "jp.masson@example.com",
-            "adresse": "20 Rue de la Dalbade, 31000 Toulouse"
-        },
-        {
-            "id_client": "cli_046",
-            "nom": "Christine Laurent",
-            "email": "christine.laurent@example.com",
-            "adresse": "12 Rue du Temple, 17000 La Rochelle"
-        },
-        {
-            "id_client": "cli_047",
-            "nom": "Alain Simon",
-            "email": "alain.simon@example.com",
-            "adresse": "35 Rue Saint-Guilhem, 34000 Montpellier"
-        },
-        {
-            "id_client": "cli_048",
-            "nom": "Dominique Roussel",
-            "email": "dominique.roussel@example.com",
-            "adresse": "8 Rue des Clercs, 57000 Metz"
-        },
-        {
-            "id_client": "cli_049",
-            "nom": "Michel Mathieu",
-            "email": "michel.mathieu@example.com",
-            "adresse": "18 Rue des Bains, 14360 Trouville-sur-Mer"
-        },
-        {
-            "id_client": "cli_050",
-            "nom": "Martine Durand",
-            "email": "martine.durand@example.com",
-            "adresse": "50 Rue d'Antibes, 06400 Cannes"
-        },
-        {
-            "id_client": "cli_051",
-            "nom": "Pierre Moreau",
-            "email": "pierre.moreau@example.com",
-            "adresse": "23 Rue de la Monnaie, 59000 Lille"
-        },
-        {
-            "id_client": "cli_052",
-            "nom": "Monique Lefebvre",
-            "email": "monique.lefebvre@example.com",
-            "adresse": "7 Quai de la Pêcherie, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_053",
-            "nom": "Gérard Roux",
-            "email": "gerard.roux@example.com",
-            "adresse": "1 Rue de la Fromagerie, 06300 Nice"
-        },
-        {
-            "id_client": "cli_054",
-            "nom": "Françoise Garcia",
-            "email": "francoise.garcia@example.com",
-            "adresse": "15 Rue des Filatiers, 31000 Toulouse"
-        },
-        {
-            "id_client": "cli_055",
-            "nom": "Didier Martin",
-            "email": "didier.martin@example.com",
-            "adresse": "4 Place Saint-Pierre, 33000 Bordeaux"
-        },
-        {
-            "id_client": "cli_056",
-            "nom": "Chantal Bernard",
-            "email": "chantal.bernard@example.com",
-            "adresse": "8 Rue de l'Hôtel de Ville, 69001 Lyon"
-        },
-        {
-            "id_client": "cli_057",
-            "nom": "Christian Petit",
-            "email": "christian.petit@example.com",
-            "adresse": "11 Rue Bonaparte, 75006 Paris"
-        },
-        {
-            "id_client": "cli_058",
-            "nom": "Brigitte Robert",
-            "email": "brigitte.robert@example.com",
-            "adresse": "2 Rue des Potiers, 31000 Toulouse"
-        },
-        {
-            "id_client": "cli_059",
-            "nom": "Daniel Richard",
-            "email": "daniel.richard@example.com",
-            "adresse": "6 Quai Romain Rolland, 69005 Lyon"
-        },
-        {
-            "id_client": "cli_060",
-            "nom": "Patricia Durand",
-            "email": "patricia.durand@example.com",
-            "adresse": "25 Rue du Bœuf, 69005 Lyon"
-        },
-        {
-            "id_client": "cli_061",
-            "nom": "Serge Simon",
-            "email": "serge.simon@example.com",
-            "adresse": "3 Place du Change, 69005 Lyon"
-        },
-        {
-            "id_client": "cli_062",
-            "nom": "Corinne Michel",
-            "email": "corinne.michel@example.com",
-            "adresse": "4 Rue de Gadagne, 69005 Lyon"
-        },
-        {
-            "id_client": "cli_063",
-            "nom": "Hervé Fournier",
-            "email": "herve.fournier@example.com",
-            "adresse": "1 Rue du Viel Renversé, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_064",
-            "nom": "Élisabeth Girard",
-            "email": "elisabeth.girard@example.com",
-            "adresse": "5 Rue de la Douane, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_065",
-            "nom": "Roger Lambert",
-            "email": "roger.lambert@example.com",
-            "adresse": "10 Rue du Miroir, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_066",
-            "nom": "Jacqueline Bonhomme",
-            "email": "jacqueline.b@example.com",
-            "adresse": "2 Quai des Bateliers, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_067",
-            "nom": "Marcel Fontaine",
-            "email": "marcel.fontaine@example.com",
-            "adresse": "7 Rue de la Krutenau, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_068",
-            "nom": "Denise Rousseau",
-            "email": "denise.rousseau@example.com",
-            "adresse": "19 Rue d'Austerlitz, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_069",
-            "nom": "André Vincent",
-            "email": "andre.vincent@example.com",
-            "adresse": "30 Rue de la Course, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_070",
-            "nom": "Nicole Lefevre",
-            "email": "nicole.lefevre@example.com",
-            "adresse": "15 Avenue des Vosges, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_071",
-            "nom": "Bernard Faure",
-            "email": "bernard.faure@example.com",
-            "adresse": "2 Rue du Dôme, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_072",
-            "nom": "Josiane Andre",
-            "email": "josiane.andre@example.com",
-            "adresse": "8 Quai Kellermann, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_073",
-            "nom": "Robert Blanc",
-            "email": "robert.blanc@example.com",
-            "adresse": "20 Route de l'Hôpital, 67100 Strasbourg"
-        },
-        {
-            "id_client": "cli_074",
-            "nom": "Paulette Mercier",
-            "email": "paulette.mercier@example.com",
-            "adresse": "1 Quai du Maire Dietrich, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_075",
-            "nom": "Maurice Guerin",
-            "email": "maurice.guerin@example.com",
-            "adresse": "13 Rue du Vingt-Deux Novembre, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_076",
-            "nom": "Renée Robin",
-            "email": "renee.robin@example.com",
-            "adresse": "4 Rue du Coq, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_077",
-            "nom": "Georges Boyer",
-            "email": "georges.boyer@example.com",
-            "adresse": "9 Rue des Frères, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_078",
-            "nom": "Yvonne Garnier",
-            "email": "yvonne.garnier@example.com",
-            "adresse": "11 Rue du Faisan, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_079",
-            "nom": "Louis Clement",
-            "email": "louis.clement@example.com",
-            "adresse": "6 Rue de la Mésange, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_080",
-            "nom": "Jeanne Morin",
-            "email": "jeanne.morin@example.com",
-            "adresse": "1 Rue de l'Outre, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_081",
-            "nom": "Henri Nicolas",
-            "email": "henri.nicolas@example.com",
-            "adresse": "3 Rue du Sanglier, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_082",
-            "nom": "Madeleine Henry",
-            "email": "madeleine.henry@example.com",
-            "adresse": "14 Rue des Orfèvres, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_083",
-            "nom": "Raymond Muller",
-            "email": "raymond.muller@example.com",
-            "adresse": "1 Rue des Tonneliers, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_084",
-            "nom": "Suzanne Lecomte",
-            "email": "suzanne.lecomte@example.com",
-            "adresse": "2 Rue de l'Écurie, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_085",
-            "nom": "Jean Chevalier",
-            "email": "jean.chevalier@example.com",
-            "adresse": "5 Rue de l'Ail, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_086",
-            "nom": "Marguerite Pereira",
-            "email": "marguerite.p@example.com",
-            "adresse": "10 Petite Rue de la Course, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_087",
-            "nom": "Michel Marchand",
-            "email": "michel.marchand@example.com",
-            "adresse": "4 Rue Sainte-Barbe, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_088",
-            "nom": "Lucienne Dufour",
-            "email": "lucienne.dufour@example.com",
-            "adresse": "1 Rue du Savon, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_089",
-            "nom": "Auguste Hubert",
-            "email": "auguste.hubert@example.com",
-            "adresse": "3 Rue de la Chaîne, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_090",
-            "nom": "Claire Schmitt",
-            "email": "claire.schmitt@example.com",
-            "adresse": "7 Place du Marché Neuf, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_091",
-            "nom": "René Gautier",
-            "email": "rene.gautier@example.com",
-            "adresse": "18 Rue du Jeu-des-Enfants, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_092",
-            "nom": "Ginette Colin",
-            "email": "ginette.colin@example.com",
-            "adresse": "25 Rue du Faubourg-de-Saverne, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_093",
-            "nom": "Francis Roger",
-            "email": "francis.roger@example.com",
-            "adresse": "1 Rue de la Fonderie, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_094",
-            "nom": "Danielle Carre",
-            "email": "danielle.carre@example.com",
-            "adresse": "6 Rue du Noyer, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_095",
-            "nom": "Gaston Lemoine",
-            "email": "gaston.lemoine@example.com",
-            "adresse": "12 Rue de la Nuée-Bleue, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_096",
-            "nom": "Liliane Picard",
-            "email": "liliane.picard@example.com",
-            "adresse": "3 Quai de Paris, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_097",
-            "nom": "Alain Renaud",
-            "email": "alain.renaud@example.com",
-            "adresse": "8 Rue des Hallebardes, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_098",
-            "nom": "Sylviane Masson",
-            "email": "sylviane.masson@example.com",
-            "adresse": "1 Place Broglie, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_099",
-            "nom": "Thierry Laurent",
-            "email": "thierry.laurent@example.com",
-            "adresse": "17 Rue des Grandes Arcades, 67000 Strasbourg"
-        },
-        {
-            "id_client": "cli_100",
-            "nom": "Valérie Simon",
-            "email": "valerie.simon@example.com",
-            "adresse": "2 Avenue de la Marseillaise, 67000 Strasbourg"
-        }
-    ],
     "livreurs": [
         {
             "id_livreur": "livr_01",
-            "nom": "Julien Moreau",
-            "vehicule": "Scooter"
+            "nom": "Julien Moreau"
         },
         {
             "id_livreur": "livr_02",
-            "nom": "Manon Petit",
-            "vehicule": "Vélo électrique"
+            "nom": "Manon Petit"
         },
         {
             "id_livreur": "livr_03",
-            "nom": "Lucas Garcia",
-            "vehicule": "Scooter"
+            "nom": "Lucas Garcia"
         },
         {
             "id_livreur": "livr_04",
-            "nom": "Emma Martin",
-            "vehicule": "Vélo"
+            "nom": "Emma Martin"
         },
         {
             "id_livreur": "livr_05",
-            "nom": "Hugo Bernard",
-            "vehicule": "Voiture"
+            "nom": "Hugo Bernard"
         },
         {
             "id_livreur": "livr_06",
-            "nom": "Chloé Durand",
-            "vehicule": "Scooter"
+            "nom": "Chloé Durand"
         },
         {
             "id_livreur": "livr_07",
-            "nom": "Louis Dubois",
-            "vehicule": "Vélo électrique"
+            "nom": "Louis Dubois"
         },
         {
             "id_livreur": "livr_08",
-            "nom": "Alice Leroy",
-            "vehicule": "Vélo"
+            "nom": "Alice Leroy"
         },
         {
             "id_livreur": "livr_09",
-            "nom": "Gabriel Robert",
-            "vehicule": "Scooter"
+            "nom": "Gabriel Robert"
         },
         {
             "id_livreur": "livr_10",
-            "nom": "Léa Simon",
-            "vehicule": "Voiture"
+            "nom": "Léa Simon"
         },
         {
             "id_livreur": "livr_11",
-            "nom": "Arthur Richard",
-            "vehicule": "Vélo électrique"
+            "nom": "Arthur Richard"
         },
         {
             "id_livreur": "livr_12",
-            "nom": "Camille Roux",
-            "vehicule": "Scooter"
+            "nom": "Camille Roux"
         },
         {
             "id_livreur": "livr_13",
-            "nom": "Jules David",
-            "vehicule": "Vélo"
+            "nom": "Jules David"
         },
         {
             "id_livreur": "livr_14",
-            "nom": "Louise Bertrand",
-            "vehicule": "Scooter"
+            "nom": "Louise Bertrand"
         },
         {
             "id_livreur": "livr_15",
-            "nom": "Adam Michel",
-            "vehicule": "Voiture"
+            "nom": "Adam Michel"
         },
         {
             "id_livreur": "livr_16",
-            "nom": "Rose Fournier",
-            "vehicule": "Vélo électrique"
+            "nom": "Rose Fournier"
         },
         {
             "id_livreur": "livr_17",
-            "nom": "Raphaël Girard",
-            "vehicule": "Scooter"
+            "nom": "Raphaël Girard"
         },
         {
             "id_livreur": "livr_18",
-            "nom": "Anna Bonhomme",
-            "vehicule": "Vélo"
+            "nom": "Anna Bonhomme"
         },
         {
             "id_livreur": "livr_19",
-            "nom": "Paul Lambert",
-            "vehicule": "Scooter"
+            "nom": "Paul Lambert"
         },
         {
             "id_livreur": "livr_20",
-            "nom": "Mia Fontaine",
-            "vehicule": "Vélo électrique"
+            "nom": "Mia Fontaine"
         },
         {
             "id_livreur": "livr_21",
-            "nom": "Noah Rousseau",
-            "vehicule": "Scooter"
+            "nom": "Noah Rousseau"
         },
         {
             "id_livreur": "livr_22",
-            "nom": "Lina Vincent",
-            "vehicule": "Vélo"
+            "nom": "Lina Vincent"
         },
         {
             "id_livreur": "livr_23",
-            "nom": "Léo Lefevre",
-            "vehicule": "Voiture"
+            "nom": "Léo Lefevre"
         },
         {
             "id_livreur": "livr_24",
-            "nom": "Eva Faure",
-            "vehicule": "Scooter"
+            "nom": "Eva Faure"
         },
         {
             "id_livreur": "livr_25",
-            "nom": "Tom Andre",
-            "vehicule": "Vélo électrique"
+            "nom": "Tom Andre"
         },
         {
             "id_livreur": "livr_26",
-            "nom": "Clara Blanc",
-            "vehicule": "Scooter"
+            "nom": "Clara Blanc"
         },
         {
             "id_livreur": "livr_27",
-            "nom": "Ethan Mercier",
-            "vehicule": "Vélo"
+            "nom": "Ethan Mercier"
         },
         {
             "id_livreur": "livr_28",
-            "nom": "Iris Guerin",
-            "vehicule": "Scooter"
+            "nom": "Iris Guerin"
         },
         {
             "id_livreur": "livr_29",
-            "nom": "Sacha Robin",
-            "vehicule": "Voiture"
+            "nom": "Sacha Robin"
         },
         {
             "id_livreur": "livr_30",
-            "nom": "Jade Boyer",
-            "vehicule": "Vélo électrique"
+            "nom": "Jade Boyer"
         },
         {
             "id_livreur": "livr_31",
-            "nom": "Gabin Garnier",
-            "vehicule": "Scooter"
+            "nom": "Gabin Garnier"
         },
         {
             "id_livreur": "livr_32",
-            "nom": "Ambre Clement",
-            "vehicule": "Vélo"
+            "nom": "Ambre Clement"
         },
         {
             "id_livreur": "livr_33",
-            "nom": "Mohamed Morin",
-            "vehicule": "Scooter"
+            "nom": "Mohamed Morin"
         },
         {
             "id_livreur": "livr_34",
-            "nom": "Juliette Nicolas",
-            "vehicule": "Vélo électrique"
+            "nom": "Juliette Nicolas"
         },
         {
             "id_livreur": "livr_35",
-            "nom": "Aaron Henry",
-            "vehicule": "Voiture"
+            "nom": "Aaron Henry"
         },
         {
             "id_livreur": "livr_36",
-            "nom": "Louna Muller",
-            "vehicule": "Scooter"
+            "nom": "Louna Muller"
         },
         {
             "id_livreur": "livr_37",
-            "nom": "Théo Lecomte",
-            "vehicule": "Vélo"
+            "nom": "Théo Lecomte"
         },
         {
             "id_livreur": "livr_38",
-            "nom": "Mila Chevalier",
-            "vehicule": "Scooter"
+            "nom": "Mila Chevalier"
         },
         {
             "id_livreur": "livr_39",
-            "nom": "Enzo Pereira",
-            "vehicule": "Vélo électrique"
+            "nom": "Enzo Pereira"
         },
         {
             "id_livreur": "livr_40",
-            "nom": "Agathe Marchand",
-            "vehicule": "Scooter"
+            "nom": "Agathe Marchand"
         },
         {
             "id_livreur": "livr_41",
-            "nom": "Axel Dufour",
-            "vehicule": "Voiture"
+            "nom": "Axel Dufour"
         },
         {
             "id_livreur": "livr_42",
-            "nom": "Romy Hubert",
-            "vehicule": "Vélo"
+            "nom": "Romy Hubert"
         },
         {
             "id_livreur": "livr_43",
-            "nom": "Maël Schmitt",
-            "vehicule": "Scooter"
+            "nom": "Maël Schmitt"
         },
         {
             "id_livreur": "livr_44",
-            "nom": "Sofia Gautier",
-            "vehicule": "Vélo électrique"
+            "nom": "Sofia Gautier"
         },
         {
             "id_livreur": "livr_45",
-            "nom": "Noé Colin",
-            "vehicule": "Scooter"
+            "nom": "Noé Colin"
         },
         {
             "id_livreur": "livr_46",
-            "nom": "Léonie Roger",
-            "vehicule": "Vélo"
+            "nom": "Léonie Roger"
         },
         {
             "id_livreur": "livr_47",
-            "nom": "Ibrahim Carre",
-            "vehicule": "Scooter"
+            "nom": "Ibrahim Carre"
         },
         {
             "id_livreur": "livr_48",
-            "nom": "Alix Lemoine",
-            "vehicule": "Voiture"
+            "nom": "Alix Lemoine"
         },
         {
             "id_livreur": "livr_49",
-            "nom": "Victor Picard",
-            "vehicule": "Vélo électrique"
+            "nom": "Victor Picard"
         },
         {
             "id_livreur": "livr_50",
-            "nom": "Adèle Renaud",
-            "vehicule": "Scooter"
+            "nom": "Adèle Renaud"
         }
     ]
 }

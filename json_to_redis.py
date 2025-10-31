@@ -57,10 +57,6 @@ def importer_donnees_depuis_json(fichier_json="dataset_json/donnees_completes.js
                 # Ajouter l'ID du plat au Set du menu du restaurant
                 r.sadd(f"restaurant:{resto_id}:plats", plat_id)
 
-        # Importer les clients
-        print("Importation des clients...")
-        for client in donnees.get("clients", []):
-            r.hset(f"client:{client['id_client']}", mapping=client)
 
         # Importer les livreurs
         print("Importation des livreurs...")

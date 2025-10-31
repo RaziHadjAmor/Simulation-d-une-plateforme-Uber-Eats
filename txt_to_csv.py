@@ -1,12 +1,16 @@
 import csv
 import os
 
-def convertir_txt_en_csv(fichiers_txt):
+def convertir_txt_en_csv(fichiers_txt, dossier_destination="dataset_csv"):
     """
     Prend une liste de noms de fichiers .txt et les convertit en fichiers .csv.
     Le contenu est lu et réécrit pour garantir un format CSV propre.
     """
     print("Démarrage de la conversion...")
+
+    # Créer le dossier de destination (ex: "dataset_csv") s'il n'existe pas
+    os.makedirs(dossier_destination, exist_ok=True)
+    print(f"Vérification/Création du dossier de destination : {dossier_destination}")
     
     # On boucle sur chaque nom de fichier fourni dans la liste
     for fichier_txt in fichiers_txt:
@@ -15,10 +19,13 @@ def convertir_txt_en_csv(fichiers_txt):
             print(f"-> ❌ ERREUR : Le fichier '{fichier_txt}' est introuvable. Il est ignoré.")
             continue
 
-        # Construire le nouveau nom de fichier en remplaçant l'extension
-        # os.path.splitext sépare le nom de l'extension de manière fiable
-        nom_base, _ = os.path.splitext(fichier_txt)
-        fichier_csv = f"{nom_base}.csv"
+        # Construire le chemin de destination
+        # 1. Obtenir le nom de base du fichier (ex: "restaurants")
+        nom_fichier_sans_ext = os.path.splitext(os.path.basename(fichier_txt))[0]
+        # 2. Créer le nouveau nom de fichier .csv (ex: "restaurants.csv")
+        nom_csv = f"{nom_fichier_sans_ext}.csv"
+        # 3. Créer le chemin complet de destination (ex: "dataset_csv/restaurants.csv")
+        fichier_csv = os.path.join(dossier_destination, nom_csv)
         
         try:
             # Ouvrir le fichier source en lecture ('r') et le fichier de destination en écriture ('w')
@@ -50,8 +57,7 @@ if __name__ == "__main__":
     fichiers_a_convertir = [
         "dataset_txt/restaurants.txt",
         "dataset_txt/plats.txt",
-        "dataset_txt/livreurs.txt",
-        "dataset_txt/clients.txt"
+        "dataset_txt/livreurs.txt"
     ]
     
     convertir_txt_en_csv(fichiers_a_convertir)
