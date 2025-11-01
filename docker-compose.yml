@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  mongo-ubereats:
+    image: mongo
+    container_name: UberEatsMongo
+    ports:
+      - "27017:27017"
+    # On garde la commande pour démarrer en mode Replica Set
+    command: mongod --replSet rs0 --bind_ip_all
